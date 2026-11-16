@@ -786,7 +786,7 @@ static HRESULT package_dependency_add( IPackage **items, UINT32 *count,
     return S_OK;
 }
 
-static HRESULT package_get_Dependencies( IPackage *iface, IVectorView_Package **value )
+static HRESULT WINAPI package_get_Dependencies( IPackage *iface, IVectorView_Package **value )
 {
     struct package *impl = impl_from_IPackage( iface );
     struct package_dependency_candidate *candidates = NULL;

@@ -101,7 +101,7 @@
     "dlls/winhttp/winhttp.spec": "11f517066f867f821236e39e6e3a5c76583830e2a90713248b45a9f5bf576cb1",
     "dlls/winhttp/tests/Makefile.in": "d73bd87967f3c81c5ec90f333fa425b4efb1545ba8cc5aa29ed5e0fa218d8295",
     "dlls/winhttp/tests/cancellation.c": "f715a34efd9f51acdce016461c6f4feb7bc4fbe5d6ec8129373b0b66864ac786",
-    "dlls/windows.applicationmodel/package_dependencies.h": "e8a858ec50f7cad3cc2f2118f19f90782a65bcc7eaef2ba6b228a6be267c1abd",
+    "dlls/windows.applicationmodel/package_dependencies.h": "fb1bbd4a666e696dbe84e381e458e85bbd9ae741b167af3565f2a9671a6e54e0",
     "include/winhttp.h": "cbe7f364d4cf232d584913089b96fe506f1546ade1fd2a3ba96a21ad828303fb",
     "include/ntddstor.h": "4d62d4a5886d7bbb658dfaa1056f8726549593fb0deed1fb2a6fe931f2b2e55f",
     "include/wine/server_protocol.h": "df155408932517ec4b7a2270419c24789a286131c53bb923084cf008f683972c",
