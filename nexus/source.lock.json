@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "base": "7fc704ef49c50e9702c9983a5250d5738697bb04",
-  "xgameruntime": "d5ec2d0e5bcf3dae6b16e61dd37f3c30fcf78352",
+  "xgameruntime": "f5fe766392b6bf09c4cce7354bca4017c7258a9f",
   "variant": "cachyos-experimental",
   "cachyosWine": "cd14106e4fc0f96006005b07985e49cc1517e9c0",
   "nexusWine": "81943bb4250cf6b79ce232db65a1b9609e4c3d58",
